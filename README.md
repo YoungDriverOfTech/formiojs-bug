@@ -1,7 +1,8 @@
 # Bug再现steps
 ## 现象
 ### 原本应该有的动作
-使用formiojs做一个拖拽组件的页面。首次进入页面，会出现一个拖拽组件的页面。原本正常的现象是，当拖拽一个组件到屏幕中央，会显示一个组件将要被放置的位置，如下图：
+使用formiojs， 地址： https://github.com/formio/react  
+做一个拖拽组件的页面。首次进入页面，会出现一个拖拽组件的页面。原本正常的现象是，当拖拽一个组件到屏幕中央，会显示一个组件将要被放置的位置，如下图：
 这个例子的项目地址是：https://github.com/formio/react-app-starterkit
 ![image](image.png)
 
