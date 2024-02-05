@@ -17,3 +17,7 @@
 # 这个项目启动方法
 1. npm install
 2. npm run dev
+
+
+# 解决方法
+## 使用webpack，不使用vite
